@@ -3,3 +3,8 @@ ver 1.0
 
 Modyfikacja pilku
 ver 1.1
+
+
+GitHub learn
+
+ver 1.2
