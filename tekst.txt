@@ -5,6 +5,6 @@ Modyfikacja pilku
 ver 1.1
 
 
-GitHub learn
+GitHub nadpisywanie
 
 ver 1.2
