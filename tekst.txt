@@ -1,0 +1,5 @@
+Test wysyłania, modyfikowania i pracy na pliku w github
+ver 1.0
+
+Modyfikacja pilku
+ver 1.1
