@@ -36,13 +36,9 @@ for i in range (liczbaZakladow):
 
 
 print ("Wygrane !! ")
-print (", jedynka {}".format (jeden))
+print ("jedynka {}".format (jeden))
 print ("dwojki {}".format (dwa))
 print ("trójki {}".format (trzy))
 print("czwórki {}".format (cztery))
 print("piątki {}".format (piec))
 print("szóstki {}".format (szesc))
-
-
-
-
